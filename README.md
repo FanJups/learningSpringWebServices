@@ -58,7 +58,17 @@ https://stackoverflow.com/questions/46647308/spring-ws-soap-endpoint-405-method-
 
 https://coderanch.com/t/489734/java/Spring-WS
 
+spring ws error 405
 
+https://stackoverflow.com/questions/46647308/spring-ws-soap-endpoint-405-method-not-allowed?noredirect=1&lq=1
+
+IMPORTANT 
+
+console : 
+'''
+janv. 06, 2019 9:37:46 PM com.sun.xml.internal.messaging.saaj.soap.EnvelopeFactory createEnvelope
+GRAVE: SAAJ0511 : impossible de créer une enveloppe à partir de la source donnée
+'''
 
 
 
