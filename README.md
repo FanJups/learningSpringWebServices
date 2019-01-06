@@ -7,4 +7,14 @@ https://www.google.com/search?q=how+to+upgrade+eclipse&oq=how+to+upgrade+eclipse
 
 https://wiki.eclipse.org/FAQ_How_do_I_upgrade_Eclipse_IDE%3F
 
+I am trying to create maven project using command but I face "build failure " --> "the goal you specified requires a project to execute but there is no pom in this directory"
+
+https://www.google.com/search?q=the+goal+you+specified+requires+a+project+to+execute+but+there+is+no+pom+in+this+directory&oq=the+goal+&aqs=chrome.3.69i57j69i60j0l4.6085j1j7&sourceid=chrome&ie=UTF-8
+
+This works for me using quotes like that :
+
+mvn archetype:generate "-DgroupId=com.javan.dev" "-DartifactId=MyWebApp" "-DarchetypeArtifactId=maven-archetype-webapp" "-DinteractiveMode=false"
+
+https://stackoverflow.com/questions/16348459/error-the-goal-you-specified-requires-a-project-to-execute-but-there-is-no-pom
+
 
