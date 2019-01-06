@@ -34,3 +34,31 @@ https://www.google.com/search?q=how+to+get+all+archetypes+maven+in+eclipse&oq=ho
 
 https://howtodoinjava.com/eclipse/how-to-import-maven-remote-archetype-catalogs-in-eclipse/
 
+I fail to run my first application  
+
+error -> error parsing http request header tomcat 8.5
+
+https://www.google.com/search?q=error+parsing+http+request+header+tomcat+8.5&oq=Error+parsing+HTTP+request+header&aqs=chrome.1.69i57j0l5.3868j0j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/18819180/tomcat-7-0-43-info-error-parsing-http-request-header
+
+https://www.google.com/search?q=wsdl+doesnt+work+with+tomcat+java&oq=wsdl+doesnt+work+with+tomcat+java&aqs=chrome..69i57.27740j1j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/2396468/accessing-wsdl-on-tomcat
+
+generating WSDL automatically using the Spring WS Configuration doesn't work error 405
+
+https://www.google.com/search?q=generating+WSDL+automatically+using+the+Spring+WS+Configuration+doesn%27t+work+error+405&oq=generating+WSDL+automatically+using+the+Spring+WS+Configuration+doesn%27t+work+error+405&aqs=chrome..69i57.23152j0j7&sourceid=chrome&ie=UTF-8
+
+generating WSDL dyamicaly using the Spring WS not doesn't working error 405
+
+https://www.google.com/search?ei=Q10yXIi5FYS7gwe32p_QDQ&q=generating+WSDL+dyamicaly+using+the+Spring+WS+not+doesn%27t+working+error+405&oq=generating+WSDL+dyamicaly+using+the+Spring+WS+not+doesn%27t+working+error+405&gs_l=psy-ab.3...1121132.1159100..1159441...0.0..2.2879.14126.2j23j3j9-4......0....1..gws-wiz.......35i304i39.q0C2BjtBVUk
+
+https://stackoverflow.com/questions/46647308/spring-ws-soap-endpoint-405-method-not-allowed
+
+https://coderanch.com/t/489734/java/Spring-WS
+
+
+
+
+
