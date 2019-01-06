@@ -17,4 +17,14 @@ mvn archetype:generate "-DgroupId=com.javan.dev" "-DartifactId=MyWebApp" "-Darch
 
 https://stackoverflow.com/questions/16348459/error-the-goal-you-specified-requires-a-project-to-execute-but-there-is-no-pom
 
+I don't understant this " choose a number or apply filter"
+
+https://www.google.com/search?q=choose+a+number+or+apply+filter&oq=choose+a+number&aqs=chrome.1.69i57j0l5.11171j1j7&sourceid=chrome&ie=UTF-8
+
+https://stackoverflow.com/questions/31780926/what-is-choose-a-number-or-apply-filter-format-groupidartifactid-case-sen
+
+https://stackoverflow.com/questions/8194257/how-to-create-a-project-using-maven-archetype-plugin-what-is-artefactid-etc
+
+https://maven-repository.com/archetypes
+
 
