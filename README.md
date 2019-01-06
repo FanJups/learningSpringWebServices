@@ -28,3 +28,9 @@ https://stackoverflow.com/questions/8194257/how-to-create-a-project-using-maven-
 https://maven-repository.com/archetypes
 
 
+how to get all archetypes maven in eclipse ?
+
+https://www.google.com/search?q=how+to+get+all+archetypes+maven+in+eclipse&oq=how+to+get+all+archetypes+maven+in+eclipse&aqs=chrome..69i57.16811j1j7&sourceid=chrome&ie=UTF-8
+
+https://howtodoinjava.com/eclipse/how-to-import-maven-remote-archetype-catalogs-in-eclipse/
+
