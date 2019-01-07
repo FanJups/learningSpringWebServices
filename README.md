@@ -69,6 +69,52 @@ console :
 janv. 06, 2019 9:37:46 PM com.sun.xml.internal.messaging.saaj.soap.EnvelopeFactory createEnvelope
 GRAVE: SAAJ0511 : impossible de créer une enveloppe à partir de la source donnée
 '''
+https://www.google.com/search?q=GRAVE%3A+SAAJ0511+%3A+impossible+de+cr%C3%A9er+une+enveloppe+%C3%A0+partir+de+la+source+donn%C3%A9e&oq=GRAVE%3A+SAAJ0511+%3A+impossible+de+cr%C3%A9er+une+enveloppe+%C3%A0+partir+de+la+source+donn%C3%A9e&aqs=chrome..69i57j69i58.1652j0j7&sourceid=chrome&ie=UTF-8
+
+https://forums.openclinica.com/discussion/16008/com-sun-xml-messaging-saaj-soapexceptionimpl-unable-to-create-envelope-from-given-source
+
+Unable to create envelope from given source
+
+HTTP 405 method not allowed spring ws
+
+https://www.google.com/search?ei=A2oyXMntDIOrgweU0a-IAw&q=HTTP+405+method+not+allowed+spring+ws&oq=HTTP+405+method+not+allowed+spring+ws&gs_l=psy-ab.3..33i22i29i30l4.12120.55692..56133...0.0..0.481.6332.8j24j2j0j4......0....1..gws-wiz.......0j0i71j35i39j0i7i30j0i7i30i19j0i7i10i30i19j0i67j0i203j0i22i30j0i8i13i30.P2wlSwJybyE
+
+https://coderanch.com/t/650733/frameworks/Spring-Tomcat-Deployment-Soap-call
+
+https://stackoverflow.com/questions/30563289/spring-tomcat-deployment-soap-call-returns-405-method-not-allowed/
+
+Maybe I didn't write @ResponsePayload ?
+
+Let 's check on internet 
+
+https://www.google.com/search?q=%40ResponsePayload+spring+ws&oq=%40ResponsePayload+spring+ws&aqs=chrome..69i57j0l2.13426j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.spring.io/spring-ws/site/reference/html/server.html
+
+#This is similar to tutorialspoint, I hope to find my solution here
+
+https://docs.spring.io/spring-ws/site/reference/html/tutorial.html#tutorial-publishing-wsdl
+
+code github : https://github.com/spring-projects/spring-ws-samples/tree/master/tutorial
+
+full distribution of Spring-WS
+
+https://www.google.com/search?q=full+distribution+of+Spring-WS&oq=full+distribution+of+Spring-WS&aqs=chrome..69i57.2716j0j7&sourceid=chrome&ie=UTF-8
+
+Trying to understand org.springframework.ws.transport.http.MessageDispatcherServlet
+
+https://www.google.com/search?q=org.springframework.ws.transport.http.MessageDispatcherServlet&oq=org.springframework.ws.transport.http.MessageDispatcherServlet&aqs=chrome..69i57j0l4.2813j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.spring.io/spring-ws/site/apidocs/org/springframework/ws/transport/http/MessageDispatcherServlet.html
+
+Trying to understand
+
+org.springframework.ws.wsdl.wsdl11.DefaultWsdl11Definition
+
+https://www.google.com/search?q=org.springframework.ws.wsdl.wsdl11.DefaultWsdl11Definition&oq=org.springframework.ws.wsdl.wsdl11.DefaultWsdl11Definition&aqs=chrome..69i57j0l3.1034j0j7&sourceid=chrome&ie=UTF-8
+
+https://docs.spring.io/spring-ws/site/apidocs/org/springframework/ws/wsdl/wsdl11/DefaultWsdl11Definition.html
+
 
 
 
