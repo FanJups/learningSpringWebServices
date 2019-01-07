@@ -115,6 +115,8 @@ https://www.google.com/search?q=org.springframework.ws.wsdl.wsdl11.DefaultWsdl11
 
 https://docs.spring.io/spring-ws/site/apidocs/org/springframework/ws/wsdl/wsdl11/DefaultWsdl11Definition.html
 
+I will use this video to better understand : https://www.youtube.com/watch?v=bfTmt_pUazU
+
 
 
 
