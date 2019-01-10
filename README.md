@@ -118,5 +118,11 @@ https://docs.spring.io/spring-ws/site/apidocs/org/springframework/ws/wsdl/wsdl11
 I will use this video to better understand : https://www.youtube.com/watch?v=bfTmt_pUazU
 
 
+I solve the problem. The problem was that I created another WEB-INF folder at the root of my project
+
+I succeed to dynamically generate leave.wsdl 
+
+Let's move on :) !
+
 
 
