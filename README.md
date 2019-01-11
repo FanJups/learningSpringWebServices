@@ -124,5 +124,10 @@ I succeed to dynamically generate leave.wsdl
 
 Let's move on :) !
 
+## countryService
+
+Making SOAP requests using postman 
+http://blog.getpostman.com/2017/11/18/postman-makes-soap-requests-too/
+
 
 
