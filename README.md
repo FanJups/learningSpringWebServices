@@ -129,5 +129,18 @@ Let's move on :) !
 Making SOAP requests using postman 
 http://blog.getpostman.com/2017/11/18/postman-makes-soap-requests-too/
 
+I face this big error
+
+failed to execute goal org.apache.maven.plugins maven-surefire-plugin : 2.12.4
+
+https://www.google.com/search?ei=qz04XOWSNcrGaYKanlg&q=failed+to+execute+goal+org.apache.maven.plugins+maven-surefire-plugin+%3A+2.12.4&oq=failed+to+execute+goal+org.apache.maven.plugins+maven-surefire-plugin+%3A+2.12.4&gs_l=psy-ab.3.1.0i203j0i22i30l7.16919.19840..20081...0.0..0.265.1020.5j3j1......0....1..gws-wiz.......0i71.27CgsuO9a2k
+
+https://stackoverflow.com/questions/13170860/failed-to-execute-goal-org-apache-maven-pluginsmaven-surefire-plugin2-10test
+
+To solve the problem :
+
+Right-click on "project"
+Go to "Maven" >> "Update"
+
 
 
